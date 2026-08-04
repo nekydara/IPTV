@@ -1,0 +1,362 @@
+#EXTM3U x-tvg-url="http://kraewert.top:80/xmltv.php?username=kHCf7gDxJx3Eb4&password=3dEyWAtr4Fu7Rf"
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+
+# ==========================================
+# ABERTOS
+# ==========================================
+#EXTINF:-1 tvg-id="br#band-bh-hd" tvg-name="Band HD" tvg-logo="https://logos.imperioapps.top/BAND.png" group-title="ABERTOS",Band HD
+http://45.190.28.50/BAND_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="Band SP FHD" tvg-logo="https://logos.imperioapps.top/BAND.png" group-title="ABERTOS",Band SP FHD
+http://opcional.eu:80/001062/vymrux/79311.m3u8
+
+#EXTINF:-1 tvg-id="br#rede-globo" tvg-name="Globo Minas FHD" tvg-logo="https://logos.imperioapps.top/globo.png" group-title="ABERTOS",Globo Minas FHD
+http://opcional.eu:80/001062/vymrux/131200.m3u8
+
+#EXTINF:-1 tvg-id="br#globo-rio-hd" tvg-name="Globo RJ" tvg-logo="https://logos.imperioapps.top/globo.png" group-title="ABERTOS",Globo RJ HD
+http://45.190.28.50/GLOBO_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="br#globosat-1" tvg-name="Globo SP FHD" tvg-logo="https://logos.imperioapps.top/globo.png" group-title="ABERTOS",Globo SP FHD
+http://opcional.eu:80/001062/vymrux/72040.m3u8
+
+#EXTINF:-1 tvg-id="Record.br" tvg-name="RecordTV SP FHD" tvg-logo="https://logos.imperioapps.top/RECORD.png" group-title="ABERTOS",RecordTV SP FHD
+http://opcional.eu:80/001062/vymrux/77654.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV! MA" tvg-logo="https://logos.imperioapps.top/REDE_TV.png" group-title="ABERTOS",RedeTV! MA
+https://stmv6.voxtvhd.com.br/imperialtv/imperialtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV PR" tvg-logo="https://logos.imperioapps.top/REDE_TV.png" group-title="ABERTOS",RedeTV! PR HD
+https://tv02.zas.media:1936/redetvparana/redetvparana/playlist.m3u8?ManoTV
+
+#EXTINF:-1 tvg-id="RedeTV.br" tvg-name="RedeTV! RO" tvg-logo="https://logos.imperioapps.top/REDE_TV.png" group-title="ABERTOS",RedeTV! RO
+https://5b33b873179a2.streamlock.net:1443/canal17/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVPampa.br" tvg-name="RedeTV HD RS" tvg-logo="https://logos.imperioapps.top/REDE_TV.png" group-title="ABERTOS",RedeTV! TV Pampa RS
+https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+
+#EXTINF:-1 tvg-id="397" tvg-name="SBT SP FHD [H265]" tvg-logo="https://logos.imperioapps.top/sbt.png" group-title="ABERTOS",SBT SP FHD [H265]
+http://opcional.eu:80/001062/vymrux/104939.m3u8
+
+#EXTINF:-1 tvg-id="397" tvg-name="SBT SP HD" tvg-logo="https://logos.imperioapps.top/sbt.png" group-title="ABERTOS",SBT SP HD 
+http://45.190.28.50/SBT_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="SBT TV Alterosa HD" tvg-logo="https://logos.imperioapps.top/sbt.png" group-title="ABERTOS",SBT TV Alterosa HD
+http://opcional.eu:80/001062/vymrux/72621.m3u8
+
+#EXTINF:-1 tvg-id="TeleSUR" tvg-name="TeleSUR HD" tvg-logo="https://i.imgur.com/oFSPskn.png" group-title="ABERTOS",TeleSUR HD 
+http://45.190.28.50/TELESUR_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="61" tvg-name="TV Brasil FHD" tvg-logo="https://logos.imperioapps.top/TV_BRASIL.png" group-title="ABERTOS",TV Brasil FHD
+http://opcional.eu:80/001062/vymrux/72399.m3u8
+
+#EXTINF:-1 tvg-id="175" tvg-name="TV Cultura HD" tvg-logo="https://logos.imperioapps.top/CULTURA.png" group-title="ABERTOS",TV Cultura HD 
+http://45.190.28.50/TV_CULTURA_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="53" tvg-name="TV Gazeta HD" tvg-logo="https://logos.imperioapps.top/TV_GAZETA.png" group-title="ABERTOS",TV Gazeta HD 
+http://45.190.28.50/GAZETA_HD/index.m3u8
+
+# ==========================================
+# DOCUMENTÁRIOS
+# ==========================================
+#EXTINF:-1 tvg-id="15" tvg-name="Animal Planet HD" tvg-logo="https://logos.imperioapps.top/ANIMAL_PLANET.png" group-title="DOCUMENTÁRIOS",Animal Planet HD 
+http://45.190.28.50/ANIMAL_PLANET_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="Discovery Channel FHD" tvg-logo="https://logos.imperioapps.top/DISCOVERY.png" group-title="DOCUMENTÁRIOS",Discovery Channel FHD
+http://opcional.eu:80/001062/vymrux/71862.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="Discovery Channel HD" tvg-logo="https://logos.imperioapps.top/DISCOVERY.png" group-title="DOCUMENTÁRIOS",Discovery Channel HD 
+http://45.190.28.50/DISCOVERY_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="116" tvg-name="Discovery Science HD" tvg-logo="https://logos.imperioapps.top/DISCOVERY_SCIENCE.png" group-title="DOCUMENTÁRIOS",Discovery Science HD 
+http://45.190.28.50/DISCOVERY_SCIENCE_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-name="Discovery Turbo HD" tvg-logo="https://logos.imperioapps.top/DISCOVERY_TURBO_4K.png" group-title="DOCUMENTÁRIOS",Discovery Turbo HD 
+http://45.190.28.50/DISCOVERY_TURBO_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="118" tvg-name="Discovery World HD" tvg-logo="https://logos.imperioapps.top/DISCOVERY_WORLD.png" group-title="DOCUMENTÁRIOS",Discovery World HD 
+http://45.190.28.50/DISCOVERY_WORLD_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="FishTV.br" tvg-name="Fish TV HD" tvg-logo="https://logos.imperioapps.top/FISH_TV.png" group-title="DOCUMENTÁRIOS",Fish TV HD 
+http://45.190.28.50/FISH_TV_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="115" tvg-name="HGTV HD" tvg-logo="https://logos.imperioapps.top/HGTV.png" group-title="DOCUMENTÁRIOS",HGTV HD 
+http://45.190.28.50/HGTV_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="85" tvg-name="History 2 HD" tvg-logo="https://i.imgur.com/FDtkuOm.png" group-title="DOCUMENTÁRIOS",History 2 HD
+http://45.190.28.50/H2_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="84" tvg-name="History 4K" tvg-logo="https://logos.imperioapps.top/HISTORY.png" group-title="DOCUMENTÁRIOS",History 4K
+http://opcional.eu:80/001062/vymrux/90244.m3u8
+
+#EXTINF:-1 tvg-id="84" tvg-name="History HD" tvg-logo="https://logos.imperioapps.top/HISTORY.png" group-title="DOCUMENTÁRIOS",History HD 
+http://45.190.28.50/HISTORY_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="1" tvg-name="Investigacao Discovery HD" tvg-logo="https://logos.imperioapps.top/DISCOVERY_ID.png" group-title="DOCUMENTÁRIOS",Investigacao Discovery HD 
+http://45.190.28.50/ID_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="TLC FHD" tvg-logo="https://logos.imperioapps.top/TLC.png" group-title="DOCUMENTÁRIOS",TLC FHD
+http://opcional.eu:80/001062/vymrux/72371.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="TLC HD" tvg-logo="https://logos.imperioapps.top/TLC.png" group-title="DOCUMENTÁRIOS",TLC HD 
+http://45.190.28.50/TLC_HD/index.m3u8
+
+# ==========================================
+# ESPORTES
+# ==========================================
+#EXTINF:-1 tvg-id="5" tvg-name="BandSports HD" tvg-logo="https://logos.imperioapps.top/BAND_SPORTS.png" group-title="ESPORTES",BandSports HD 
+http://45.190.28.50/BAND_SPORTS_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="5" tvg-name="Band Sports FHD" tvg-logo="https://logos.imperioapps.top/BAND_SPORTS.png" group-title="ESPORTES",Band Sports FHD
+http://opcional.eu:80/001062/vymrux/71801.m3u8
+
+#EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://logos.imperioapps.top/CAZE_TV.png" group-title="ESPORTES",Cazé TV HD
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gPL2YXF.png" group-title="ESPORTES",Desempedido FHD
+https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi_h265.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/gPL2YXF.png" group-title="ESPORTES",Desempedido HD
+https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="ESPN 2 HD" tvg-logo="https://logos.imperioapps.top/ESPN_2.png" group-title="ESPORTES",ESPN 2 HD 
+http://45.190.28.50/ESPN2_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="39" tvg-name="ESPN 3 FHD" tvg-logo="https://logos.imperioapps.top/ESPN_3.png" group-title="ESPORTES",ESPN 3 FHD
+http://opcional.eu:80/001062/vymrux/71907.m3u8
+
+#EXTINF:-1 tvg-id="26" tvg-name="ESPN 4 FHD" tvg-logo="https://logos.imperioapps.top/ESPN_4.png" group-title="ESPORTES",ESPN 4 FHD
+http://opcional.eu:80/001062/vymrux/71957.m3u8
+
+#EXTINF:-1 tvg-id="ESPN5.br" tvg-name="ESPN 5 FHD" tvg-logo="https://logos.imperioapps.top/ESPN_5.png" group-title="ESPORTES",ESPN 5 FHD
+http://opcional.eu:80/001062/vymrux/71952.m3u8
+
+#EXTINF:-1 tvg-id="50" tvg-name="ESPN 6 FHD" tvg-logo="https://logos.imperioapps.top/ESPN_6.png" group-title="ESPORTES",ESPN 6 FHD
+http://opcional.eu:80/001062/vymrux/71915.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="ESPN HD" tvg-logo="https://logos.imperioapps.top/ESPN.png" group-title="ESPORTES",ESPN HD 
+http://45.190.28.50/ESPN_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="466" tvg-name="Ge TV HD" tvg-logo="https://i.imgur.com/eIslCj7.png" group-title="ESPORTES",Ge TV FHD
+https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/1080p-vtt/index.m3u8
+
+#EXTINF:-1 tvg-id="329" tvg-logo="https://i.imgur.com/jK3OFSJ.png" group-title="ESPORTES",NSPORTS
+https://ogc-nsprt-tcl-roku-syndication.otteravision.com/ogc/nsprt/nsprt_720p.m3u8
+
+#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 FHD" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 2 FHD
+http://opcional.eu:80/001062/vymrux/72237.m3u8
+
+#EXTINF:-1 tvg-id="108" tvg-name="Premiere 2 FHD [H265]" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 2 FHD [H265]
+http://opcional.eu:80/001062/vymrux/72238.m3u8
+
+#EXTINF:-1 tvg-id="108" timeshift="7" tvg-name="Premiere 2 HD" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 2 HD
+http://opcional.eu:80/001062/vymrux/72239.m3u8
+
+#EXTINF:-1 tvg-id="109" tvg-name="Premiere 3 FHD" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 3 FHD
+http://opcional.eu:80/001062/vymrux/72241.m3u8
+
+#EXTINF:-1 tvg-id="109" tvg-name="Premiere 3 FHD [H265]" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 3 FHD [H265]
+http://opcional.eu:80/001062/vymrux/72242.m3u8
+
+#EXTINF:-1 tvg-id="109" timeshift="7" tvg-name="Premiere 3 HD" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 3 HD
+http://opcional.eu:80/001062/vymrux/72243.m3u8
+
+#EXTINF:-1 tvg-id="110" tvg-name="Premiere 4 FHD" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 4 FHD
+http://opcional.eu:80/001062/vymrux/72245.m3u8
+
+#EXTINF:-1 tvg-id="110" tvg-name="Premiere 4 FHD [H265]" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 4 FHD [H265]
+http://opcional.eu:80/001062/vymrux/72246.m3u8
+
+#EXTINF:-1 tvg-id="110" timeshift="7" tvg-name="Premiere 4 HD" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 4 HD
+http://opcional.eu:80/001062/vymrux/72247.m3u8
+
+#EXTINF:-1 tvg-id="111" tvg-name="Premiere 5 FHD" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 5 FHD
+http://opcional.eu:80/001062/vymrux/72249.m3u8
+
+#EXTINF:-1 tvg-id="111" tvg-name="Premiere 5 FHD [H265]" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 5 FHD [H265]
+http://opcional.eu:80/001062/vymrux/72250.m3u8
+
+#EXTINF:-1 tvg-id="111" timeshift="7" tvg-name="Premiere 5 HD" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 5 HD
+http://opcional.eu:80/001062/vymrux/72251.m3u8
+
+#EXTINF:-1 tvg-id="112" tvg-name="Premiere 6 FHD" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 6 FHD
+http://opcional.eu:80/001062/vymrux/72253.m3u8
+
+#EXTINF:-1 tvg-id="112" tvg-name="Premiere 6 FHD [H265]" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 6 FHD [H265]
+http://opcional.eu:80/001062/vymrux/72254.m3u8
+
+#EXTINF:-1 tvg-id="112" timeshift="7" tvg-name="Premiere 6 HD" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 6 HD
+http://opcional.eu:80/001062/vymrux/72255.m3u8
+
+#EXTINF:-1 tvg-id="113" tvg-name="Premiere 7 FHD" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 7 FHD
+http://opcional.eu:80/001062/vymrux/72257.m3u8
+
+#EXTINF:-1 tvg-id="113" tvg-name="Premiere 7 FHD [H265]" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 7 FHD [H265]
+http://opcional.eu:80/001062/vymrux/72258.m3u8
+
+#EXTINF:-1 tvg-id="113" timeshift="7" tvg-name="Premiere 7 HD" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 7 HD
+http://opcional.eu:80/001062/vymrux/72259.m3u8
+
+#EXTINF:-1 tvg-id="br#premiere-8" tvg-name="Premiere 8 FHD" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 8 FHD
+http://opcional.eu:80/001062/vymrux/180158.m3u8
+
+#EXTINF:-1 tvg-id="br#premiere-8" tvg-name="Premiere 8 FHD [H265]" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 8 FHD [H265]
+http://opcional.eu:80/001062/vymrux/180161.m3u8
+
+#EXTINF:-1 tvg-id="br#premiere-8" tvg-name="Premiere 8 HD" tvg-logo="https://logos.imperioapps.top/PREMIERE.png" group-title="ESPORTES",Premiere 8 HD
+http://opcional.eu:80/001062/vymrux/180159.m3u8
+
+#EXTINF:-1 tvg-id="PremiereClubes.br" tvg-name="Premiere Clubes FHD" tvg-logo="https://i.imgur.com/Kl3xYlU.png" group-title="ESPORTES",Premiere Clubes FHD
+http://opcional.eu:80/001062/vymrux/72262.m3u8
+
+#EXTINF:-1 tvg-id="PremiereClubes.br" timeshift="7" tvg-name="Premiere Clubes HD" tvg-logo="https://i.imgur.com/Kl3xYlU.png" group-title="ESPORTES",Premiere Clubes HD
+http://opcional.eu:80/001062/vymrux/72265.m3u8
+
+#EXTINF:-1 tvg-id="br#sportv2-hd" tvg-name="SporTV 2 FHD" tvg-logo="https://logos.imperioapps.top/SPORTV2.png" group-title="ESPORTES",SporTV 2 FHD
+http://opcional.eu:80/001062/vymrux/72321.m3u8
+
+#EXTINF:-1 tvg-id="br#sportv3-hd" tvg-name="SporTV 3 FHD" tvg-logo="https://logos.imperioapps.top/SPORTV3.png" group-title="ESPORTES",SporTV 3 FHD
+http://opcional.eu:80/001062/vymrux/72325.m3u8
+
+#EXTINF:-1 tvg-id="30"  tvg-name="SporTV FHD" tvg-logo="https://logos.imperioapps.top/SPORTV.png" group-title="ESPORTES",SporTV FHD
+http://opcional.eu:80/001062/vymrux/72329.m3u8
+
+#EXTINF:-1 tvg-id="30"  timeshift="7" tvg-name="SporTV HD" tvg-logo="https://logos.imperioapps.top/SPORTV.png" group-title="ESPORTES",SporTV HD
+http://opcional.eu:80/001062/vymrux/72332.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC Fight Pass FHD" tvg-logo="https://logos.imperioapps.top/UFC_FIGHT_PASS.png" group-title="ESPORTES",UFC Fight Pass FHD
+http://opcional.eu:80/001062/vymrux/184046.m3u8
+
+# ==========================================
+# FILMES/SÉRIES
+# ==========================================
+#EXTINF:-1 tvg-id="86" tvg-name="A&E HD" tvg-logo="https://logos.imperioapps.top/A&E.png" group-title="FILMES/SÉRIES",A&E HD 
+http://45.190.28.50/AE_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="AMC 4K" tvg-logo="https://imgur.com/YcGeGff.png" group-title="FILMES/SÉRIES",AMC 4K
+http://opcional.eu:80/001062/vymrux/90646.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="AMC FHD" tvg-logo="https://logos.imperioapps.top/AMC.png" group-title="FILMES/SÉRIES",AMC FHD
+http://opcional.eu:80/001062/vymrux/71768.m3u8
+
+#EXTINF:-1 tvg-id="79" tvg-name="AXN FHD" tvg-logo="https://logos.imperioapps.top/AXN.png" group-title="FILMES/SÉRIES",AXN FHD
+http://opcional.eu:80/001062/vymrux/71781.m3u8
+
+#EXTINF:-1 tvg-id="79" tvg-name="AXN HD" tvg-logo="https://logos.imperioapps.top/AXN.png" group-title="FILMES/SÉRIES",AXN HD 
+http://45.190.28.50/AXN_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="61" tvg-name="Canal Brasil 4K" tvg-logo="https://imgur.com/ieX4XmU.png" group-title="FILMES/SÉRIES",Canal Brasil 4K
+http://opcional.eu:80/001062/vymrux/103518.m3u8
+
+#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Canal Sony 4K" tvg-logo="https://imgur.com/lFV0oNr.png" group-title="FILMES/SÉRIES",Canal Sony 4K
+http://opcional.eu:80/001062/vymrux/103517.m3u8
+
+#EXTINF:-1 tvg-id="SonyChannel.br" tvg-name="Canal Sony HD" tvg-logo="https://logos.imperioapps.top/SONY.png" group-title="FILMES/SÉRIES",Canal Sony HD 
+http://45.190.28.50/SONY_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="261" tvg-name="HBO 2 FHD" tvg-logo="https://logos.imperioapps.top/HBO_2.png" group-title="FILMES/SÉRIES",HBO 2 FHD
+http://opcional.eu:80/001062/vymrux/72110.m3u8
+
+#EXTINF:-1 tvg-id="263" tvg-name="HBO Family FHD" tvg-logo="https://logos.imperioapps.top/HBO_FAMILY.png" group-title="FILMES/SÉRIES",HBO Family FHD
+http://opcional.eu:80/001062/vymrux/72114.m3u8
+
+#EXTINF:-1 tvg-id="260" tvg-name="HBO FHD [H265]" tvg-logo="https://logos.imperioapps.top/HBO.png" group-title="FILMES/SÉRIES",HBO FHD [H265]
+http://opcional.eu:80/001062/vymrux/72119.m3u8
+
+#EXTINF:-1 tvg-id="47" tvg-name="TCM HD" tvg-logo="https://logos.imperioapps.top/TCM.png" group-title="FILMES/SÉRIES",TCM HD 
+http://45.190.28.50/TCM_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="68" tvg-name="Telecine Premium 4K" tvg-logo="https://logos.imperioapps.top/TELECINE_PREMIUM_4K.png" group-title="FILMES/SÉRIES",Telecine Premium 4K
+http://opcional.eu:80/001062/vymrux/90237.m3u8
+
+#EXTINF:-1 tvg-id="68" tvg-name="Telecine Premium FHD" tvg-logo="https://imgur.com/aVzk586.png" group-title="FILMES/SÉRIES",Telecine Premium FHD
+http://opcional.eu:80/001062/vymrux/72362.m3u8
+
+#EXTINF:-1 tvg-id="70" tvg-name="Telecine Touch 4K" tvg-logo="https://imgur.com/Zqx6Whf.png" group-title="FILMES/SÉRIES",Telecine Touch 4K
+http://opcional.eu:80/001062/vymrux/103454.m3u8
+
+#EXTINF:-1 tvg-id="70" tvg-name="Telecine Touch FHD" tvg-logo="https://imgur.com/ypQ166H.png" group-title="FILMES/SÉRIES",Telecine Touch FHD
+http://opcional.eu:80/001062/vymrux/72366.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-name="TNT 4K" tvg-logo="https://logos.imperioapps.top/TNT_4K.png" group-title="FILMES/SÉRIES",TNT 4K
+http://opcional.eu:80/001062/vymrux/72377.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-name="TNT FHD" tvg-logo="https://logos.imperioapps.top/TNT.png" group-title="FILMES/SÉRIES",TNT FHD
+http://opcional.eu:80/001062/vymrux/72375.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="TNT HD" tvg-logo="https://logos.imperioapps.top/TNT.png" group-title="FILMES/SÉRIES",TNT HD 
+http://45.190.28.50/TNT_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="83" tvg-name="Warner HD" tvg-logo="https://logos.imperioapps.top/WARNER_CHANNEL.png" group-title="FILMES/SÉRIES",Warner HD 
+http://45.190.28.50/WARNER_HD/index.m3u8
+
+# ==========================================
+# INFANTIL
+# ==========================================
+#EXTINF:-1 tvg-id="Boomerang.br" tvg-name="Boomerang HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="INFANTIL",Boomerang HD 
+http://45.190.28.50/BOOMERANG_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="Cartoon HD" tvg-logo="https://logos.imperioapps.top/CARTOON_NETWORK.png" group-title="INFANTIL",Cartoon HD 
+http://45.190.28.50/CARTOON_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="1"  tvg-name="Discovery Kids FHD" tvg-logo="https://logos.imperioapps.top/DISCOVERY_KIDS.png" group-title="INFANTIL",Discovery Kids FHD
+http://opcional.eu:80/001062/vymrux/71871.m3u8
+
+# ==========================================
+# MÚSICA
+# ==========================================
+#EXTINF:-1 tvg-id="br#music-box-brasil-hd" tvg-name="Music Box HD" tvg-logo="https://i.imgur.com/zfLm2Vx.png" group-title="MÚSICA",Music Box HD 
+http://45.190.28.50/MUSIC_BOX_HD/index.m3u8
+
+# ==========================================
+# NOTÍCIAS
+# ==========================================
+#EXTINF:-1 tvg-id="br#bandnews-hd" tvg-name="Band News FHD" tvg-logo="http://opcional.eu/static/logos/canais/bandnews.png" group-title="NOTÍCIAS",Band News FHD
+http://opcional.eu:80/001062/vymrux/71789.m3u8
+
+#EXTINF:-1 tvg-id="77" tvg-name="CNN BRASIL FHD" tvg-logo="https://logos.imperioapps.top/CNN_BRASIL.png" group-title="NOTÍCIAS",CNN BRASIL FHD
+https://d25usgadhphvwi.cloudfront.net/hls/stv-plus1280x720/playlist.m3u8
+
+#EXTINF:-1 tvg-id="78" tvg-name="Globo News 4K" tvg-logo="https://logos.imperioapps.top/GLOBO_NEWS.png" group-title="NOTÍCIAS",Globo News 4K
+http://opcional.eu:80/001062/vymrux/90248.m3u8
+
+#EXTINF:-1 tvg-id="78" tvg-name="Globo News FHD" tvg-logo="https://logos.imperioapps.top/GLOBO_NEWS.png" group-title="NOTÍCIAS",Globo News FHD
+http://opcional.eu:80/001062/vymrux/71997.m3u8
+
+#EXTINF:-1 tvg-id="78" tvg-name="Globo News FHD [H265]" tvg-logo="https://logos.imperioapps.top/GLOBO_NEWS.png" group-title="NOTÍCIAS",Globo News FHD [H265]
+http://opcional.eu:80/001062/vymrux/71998.m3u8
+
+#EXTINF:-1 tvg-id="78" timeshift="7" tvg-name="Globo News HD" tvg-logo="https://logos.imperioapps.top/GLOBO_NEWS.png" group-title="NOTÍCIAS",Globo News HD
+http://opcional.eu:80/001062/vymrux/71999.m3u8
+
+#EXTINF:-1 tvg-id="187"  tvg-name="Jovem Pan News 4K" tvg-logo="https://logos.imperioapps.top/JOVEM_PAN_4K.png" group-title="NOTÍCIAS",Jovem Pan News 4K
+http://opcional.eu:80/001062/vymrux/134021.m3u8
+
+#EXTINF:-1 tvg-id="187"  tvg-name="Jovem Pan News FHD" tvg-logo="https://logos.imperioapps.top/JOVEM_PAN.png" group-title="NOTÍCIAS",Jovem Pan News FHD
+http://opcional.eu:80/001062/vymrux/134023.m3u8
+
+#EXTINF:-1 tvg-id="187"  timeshift="7" tvg-name="Jovem Pan News HD" tvg-logo="https://logos.imperioapps.top/JOVEM_PAN.png" group-title="NOTÍCIAS",Jovem Pan News HD
+http://opcional.eu:80/001062/vymrux/134024.m3u8
+
+#EXTINF:-1 tvg-id="182" tvg-name="RECORD NEWS" tvg-logo="https://logos.imperioapps.top/RECORD_NEWS.png" group-title="NOTÍCIAS",Record News
+https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8
+
+#EXTINF:-1 tvg-id="182" tvg-name="Record News HD" tvg-logo="https://logos.imperioapps.top/RECORD_NEWS.png" group-title="NOTÍCIAS",Record News HD 
+http://45.190.28.50/RECORD_NEWS_HD/index.m3u8
+
+#EXTINF:-1 tvg-id="469" tvg-logo="http://www.fontedecanais.tv/logos/canais/sbtnews.png" group-title="NOTÍCIAS",SBT NEWS
+https://amg00527-amg00527c5-amgplt0026.playout.now3.amagi.tv/ts-us-w2-n1/playlist/amg00527-amg00527c5-amgplt0026/playlist.m3u8
+
+# ==========================================
+# RELIGIOSOS
+# ==========================================
+#EXTINF:-1 tvg-id="60" tvg-name="Rede Vida FHD" tvg-logo="https://logos.imperioapps.top/REDE_VIDA.png" group-title="RELIGIOSOS",Rede Vida FHD
+http://opcional.eu:80/001062/vymrux/72293.m3u8
+
+#EXTINF:-1 tvg-id="320" tvg-name="TV Aparecida FHD" tvg-logo="https://logos.imperioapps.top/APARECIDA.png" group-title="RELIGIOSOS",TV Aparecida FHD
+http://opcional.eu:80/001062/vymrux/72394.m3u8
+
+# ==========================================
+# VARIEDADES
+# ==========================================
+#EXTINF:-1 tvg-id="97" tvg-name="GNT FHD" tvg-logo="https://logos.imperioapps.top/GNT.png" group-title="VARIEDADES",GNT FHD
+http://opcional.eu:80/001062/vymrux/72102.m3u8
